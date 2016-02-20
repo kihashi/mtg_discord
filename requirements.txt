@@ -1,4 +1,4 @@
--e git+https://github.com/kihashi/discord.py@master#egg=discord.py
+-e git+https://github.com/kihashi/discord.py@legacy#egg=discord.py
 Elixir==0.7.1
 requests==2.9.1
 SQLAlchemy==0.7.8
